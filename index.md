@@ -10,7 +10,7 @@
 
 * ### [How to: Create or import a project in Android Studio](https://github.com/dees101/docs/blob/main/Create%20or%20import%20a%20project%20in%20Android%20Studio%20(1).pdf)
 
-* ### [Developer docs: Visualization Engine ( for IBM )](https://github.com/dees101/docs/blob/main/IBM-ITCAM-was-Agent%20Installation%20Guide.pdf)
+* ### [Installation Guide: Visualization Engine ( for IBM )](https://github.com/dees101/docs/blob/main/IBM-ITCAM-was-Agent%20Installation%20Guide.pdf)
 
 * ### [Developer docs: Managing Server ( for IBM )](url)
 
