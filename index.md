@@ -14,7 +14,7 @@
 
 * ### [Developer docs: Managing Server ( for IBM )](url)
 
-* ### [Knowledgbase: Big Data, Hadoop and Hive (for SynergisticIT )](https://github.com/dees101/docs/blob/main/Big%20Data%2CHadoop%20%26%20Hive.pdf)
+* ### [Knowledgebase: Big Data, Hadoop and Hive (for SynergisticIT )](https://github.com/dees101/docs/blob/main/Big%20Data%2CHadoop%20%26%20Hive.pdf)
 
 * ### [Knowledgebase: Data Modeling in NoSQL Databases ( for SynergisticIT )](https://github.com/dees101/docs/blob/main/Data%20Modeling%20in%20NoSQL%20Databases.pdf)
 
