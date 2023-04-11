@@ -7,8 +7,8 @@
 
 
 * ### [API Documentation: NASA Image and Video Library](https://ds-gitbook.gitbook.io/nasa-image-and-video-apis/)
-      This API documentation includes JavaScript and cURL code samples for all 
-      GET API operations and information on authentication and errors codes. 
+      This API documentation includes python and cURL code samples for all 
+      GET operations and information on API endpoints and errors codes. 
       It is written in Markdown and published using GitBook.
 
 * ### [How to: Create or import a project in Android Studio](https://github.com/dees101/docs/blob/main/Create%20or%20import%20a%20project%20in%20Android%20Studio%20(1).pdf)
