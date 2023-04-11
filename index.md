@@ -1,19 +1,21 @@
 
-# :wave: Hi there ! Welcome to my documentation portfolio page !
+# :wave: Hi there ! Welcome to my portfolio page !
 
 
 ## Here are some samples of my work. 
 
-* ### Contribution to Visualization Engine ( IBM ) [Link](url)
+* ### NASA Image and Video Library API Documentation [Link](https://ds-gitbook.gitbook.io/nasa-image-and-video-apis/)
 
-* ### Contribution to Managing Server ( IBM ) [Link](url)
+* ### Android Studio: Create or import a project [Link](url)
 
-* ### MadCap Flare samples [Link](url)
+* ### Contribution to Visualization Engine ( for IBM ) [Link](https://github.com/dees101/docs/blob/main/IBM-ITCAM-was-Agent%20Installation%20Guide.pdf)
 
-* ### "Big Data, Hadoop and Hive" - A snapshot of the Big data ecosystem for the company knowlegebase.[Link](url)
+* ### Contribution to Managing Server ( for IBM ) [Link](url)
 
-* ### "Data Modeling in NoSQL Databases" - An article explaining how data modeling is done in NoSQL Databases.[Link](url)
+* ### Big Data, Hadoop and Hive (for SynergisticIT ) [Link](https://github.com/dees101/docs/blob/main/Big%20Data%2CHadoop%20%26%20Hive.pdf)
 
-* ### "Hadoop Interview Questions" - List of questions to be used by internal recruiters for technical interviews.[Link](url)
+* ### Data Modeling in NoSQL Databases ( for SynergisticIT ) [Link](https://github.com/dees101/docs/blob/main/Data%20Modeling%20in%20NoSQL%20Databases.pdf)
+
+* ### Hadoop Interview Questions ( for SynergisticIT ) [Link](https://github.com/dees101/docs/blob/main/Hadoop%20Interview%20Q%26A.pdf)
 
 
