@@ -17,8 +17,6 @@
 * ### [Installation Guide: Visualization Engine ( for IBM )](https://github.com/dees101/docs/blob/main/IBM-ITCAM-was-Agent%20Installation%20Guide.pdf)
        Contributions to the official Installation Guide for ITCAM WAS.
 
-* ### [Developer docs: Managing Server ( for IBM )](url)
-
 * ### [Knowledgebase: Big Data, Hadoop and Hive (for SynergisticIT )](https://github.com/dees101/docs/blob/main/Big%20Data%2CHadoop%20%26%20Hive.pdf)
       An internal knowledge base article used for employee education. 
 
